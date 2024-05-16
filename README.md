@@ -8,3 +8,18 @@ This is an introductory-level course in supervised learning, with a focus on reg
 This is not a math-heavy class, so we try and describe the methods without heavy reliance on formulas and complex mathematics. We focus on what we consider to be the important elements of modern data science. Computing in this course is done in Python. There are lectures devoted to Python, giving tutorials from the ground up, and progressing with more detailed sessions that implement the techniques in each chatper. We also offer the separate and original version of this course called Statistical Learning with R – the chapter lectures are the same, but the lab lectures and computing are done using R.
 
 The lectures cover all the material in An Introduction to Statistical Learning, with Applications in Python by James, Witten, Hastie, Tibshirani, and Taylor (Springer, 2023. The pdf for this book is available for free on the book website.
+
+What you'll learn
+
+Overview of statistical learning
+Linear regression
+Classificaiton
+Resampling methods
+Linear model selection and regularization
+Moving beyond linearity
+Tree-based methods
+Support vector machines
+Deep learning
+Survival modeling
+Unsupervised learning
+Multiple testing
